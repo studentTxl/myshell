@@ -1,8 +1,3 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<unisd.h>
-#include<string.h>
-#include<sys/types.h>
 #include"myshell.h"
 
 int main(int argc, char **argv)
